@@ -23,12 +23,3 @@ jobs:
 
     - name: Run tests
       run: npm test
-
-    - name: Deploy to server
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        SERVER_USER: ${{ secrets.SERVER_USER }}
-        SERVER_IP: ${{ secrets.SERVER_IP }}
-      run: |
-        echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-        ssh -o StrictHostKeyChecking=no $SERVER_USER@$SERVER_IP "cd /path/to/your/app && git pull && npm install && pm2 restart all"
