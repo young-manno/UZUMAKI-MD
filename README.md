@@ -1,5 +1,5 @@
    # UZUMAKI-MD
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_______UZUMAKI-MD_____;simple+whatsapp+BOT;BY+VIP ANONYMOUS;REALESE+DATE+27%2F9%2F2024." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_______UZUMAKI-MD_____;simple+whatsapp+BOT;BY+YOUNG MANNO ;REALESE+DATE+27%2F9%2F2024." alt="Typing SVG" /></a>
  <img src="https://i.pinimg.com/564x/79/76/a1/7976a17a34156be847621a065d82d7a9.jpg"/>
  </a>
 </p>
