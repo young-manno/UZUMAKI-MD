@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot using Bailey library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Young Manno",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0"
+  }
+}
