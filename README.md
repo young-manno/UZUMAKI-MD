@@ -61,10 +61,9 @@
 
 ---
 
-## 🔐 How to Get Session ID
+## 🔐 Session ID
 
-1. **📱 Scan the QR Code:** Open WhatsApp on your phone, go to Settings > WhatsApp Web, and scan the QR code.
-2. **🆔 Get Session ID:** Once scanned, you'll get the `session_id` which you can use to deploy the bot.
+
 
 ---
 
