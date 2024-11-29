@@ -1,12 +1,12 @@
 {
-  "name": "lara",
+  "name": "uzumaki-md",
   "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "Uzumaki-MD WhatsApp bot created by Young Manno using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start index.js --deep-monitoring --attach --name uzumaki-md",
+    "stop": "pm2 stop uzumaki-md",
+    "restart": "pm2 restart uzumaki-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
@@ -25,12 +25,12 @@
     "qrcode-terminal": "^0.12.0",
     "yt-search": "2.11.1",
     "api-dylux": "1.8.5",
-    "google-tts-api":"2.0.2",
-    "wa-sticker-formatter":"4.4.4",
-    "ruhend-scraper":"8.0.3",
-    "child_process":"1.0.2",
-    "@mrnima/tiktok-downloader":"1.0.0",
-    "@mrnima/facebook-downloader":"1.0.0",
-    "mrnima-moviedl":"1.0.0"
+    "google-tts-api": "2.0.2",
+    "wa-sticker-formatter": "4.4.4",
+    "ruhend-scraper": "8.0.3",
+    "child_process": "1.0.2",
+    "@mrnima/tiktok-downloader": "1.0.0",
+    "@mrnima/facebook-downloader": "1.0.0",
+    "mrnima-moviedl": "1.0.0"
   }
 }
